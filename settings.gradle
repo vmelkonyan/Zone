@@ -1,0 +1,8 @@
+rootProject.name = 'Zone'
+include 'app'
+include 'common'
+include 'domain'
+include 'infrastructure'
+include 'launcher'
+include 'messaging'
+
